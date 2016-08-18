@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/psingh/mc16/objectivequiz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/objectivequiz" vcs="Git" />
     <mapping directory="F:\study\iiitd1st sem\mobile computing\ObjectiveQuiz\objectivequiz1" vcs="Git" />
   </component>
