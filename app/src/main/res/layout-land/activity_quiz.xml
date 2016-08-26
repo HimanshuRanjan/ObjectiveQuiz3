@@ -45,5 +45,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/nextText"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hint"
+        android:id="@+id/hint" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cheat"
+        android:id="@+id/cheat" />
 </LinearLayout>
